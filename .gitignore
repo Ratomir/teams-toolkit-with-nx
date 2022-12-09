@@ -37,3 +37,15 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# TeamsFx files
+node_modules
+.fx/configs/localSettings.json
+.fx/states/*.userdata
+.DS_Store
+.env
+.env.teamsfx.local
+subscriptionInfo.json
+build
+.fx/configs/config.local.json
+.fx/states/state.local.json
